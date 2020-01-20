@@ -1,0 +1,18 @@
+#searchBar {
+    display: flex;
+    flex-direction: row;
+    opacity: 0.9;
+}
+
+#userInput {
+    flex: 1;
+    border-width: 0px;
+    color: darkslategrey;
+    font-size: 1.8rem;
+}
+
+#clearData {
+    zoom: 0.7;
+    padding: 1rem;
+    cursor: pointer;
+}

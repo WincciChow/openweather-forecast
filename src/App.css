@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  background-color: #00008b;
+  padding-left: 200px;
+}
+
+.App {
+  text-align: center;
+  margin: 200px;
+  background-color: #ffd300;
+  width: 600px;
+}
+
+
